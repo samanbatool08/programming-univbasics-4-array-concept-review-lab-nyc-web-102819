@@ -3,7 +3,7 @@ def find_element_index(array, value_to_find)
   value_to_find = [ 3 ]
 end
 
-find_element_index(validates_numericality_of)
+find_element_index(value_to_find)
 
 def find_max_value(array)
   # Add your solution here
